@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002574226399",
+    "firebase_url": "https://putriangle1289-2-default-rtdb.firebaseio.com",
+    "project_id": "putriangle1289-2",
+    "storage_bucket": "putriangle1289-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002574226399:android:375be1787616fc35db1a6a",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.g1110190.puonepiecev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002574226399-7sv9deetp4ktlvgqkbv1gp3vfkaicnth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.edu.pu.g1110190.puonepiecev2",
+            "certificate_hash": "a48aab46a33ba8e64f34f41b15bd8c107e463fa4"
+          }
+        },
+        {
+          "client_id": "1002574226399-4lokt4c84hmsnl5q26p5bk0eccc2ktr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJkDHYkK0k3-JD7qErkEUXGuHPvr3EZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002574226399-4lokt4c84hmsnl5q26p5bk0eccc2ktr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
